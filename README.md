@@ -9,7 +9,7 @@
    </tr>
    <tr>
      <td>Name</td>
-     <td>toshi119</td>
+     <td>toshi</td>
    </tr>
    <tr>
      <td>Birthday</td>
@@ -44,7 +44,7 @@
 
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshi119&theme=github_dark"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toshi119&theme=github_dark"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshi119&theme=github_dark"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toshi119&theme=github_dark&utcOffset=8"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshi119&theme=github_dark"/>
  </div>
 
 
